@@ -1,0 +1,291 @@
+@media screen and (max-width: 1400px) {
+  #profile {
+    height: 80vh;
+    margin-bottom: 2rem;
+  }
+  .about-containers {
+    flex-wrap: wrap;
+  }
+  #socials-container3, #socials-container,#socials-container1{
+    flex-wrap: wrap;
+  }
+
+}
+
+
+@media screen and (max-width:1200px) {
+  #desktop-nav {
+    display: none;
+  }
+
+  #hamburger-nav {
+    display: flex;
+  }
+
+  .section__text{
+    margin-left: 100px;
+  }
+  #about{
+    margin-top: 20px;
+  }
+  .about-left{
+    margin-right:18rem;
+  }
+
+  .section__pic-container2{
+    margin-top: 10px;
+   margin-left: 25rem;
+  }
+
+  .section__pic-container3{
+    margin-left: 20rem;
+    margin-bottom: 10px;
+  }
+  .about-containers{
+    
+    width: 40%;
+    display: block;
+    margin-left: 23rem;
+  }
+  .details-container1{
+    margin-bottom: 10px;
+  }
+  .text-container{
+    margin-left: 10rem;
+  }
+  .btn-color-1b{
+margin-left:-60px
+  }
+  
+  #experience,
+  .experience-details-container {
+    margin-top: 2rem;
+  }
+
+  #profile,
+  .section-container {
+    display: block;
+  }
+  section,
+  .section-container {
+    height: fit-content;
+  }
+  section {
+    margin: 0 5%;
+  }
+  .section__pic-container {
+    width: 275px;
+    height: 275px;
+    margin: 0 auto 2rem;
+  }
+  .about-containers {
+    margin-top: 0;
+    
+  }
+  #socials-container3, #socials-container,#socials-container1{
+    flex-wrap: wrap;
+  }
+
+}
+
+
+@media screen and (max-width: 600px) {
+
+  #contact,
+  footer {
+    height: 40vh;
+  }
+  #profile {
+    height: 83vh;
+    margin-bottom: 0;
+    margin-left: 100px;
+  }
+  .section__text{
+    margin-left: 1px;
+  }
+  #about{
+    margin-top: -10px;
+
+  }
+  .about-left{
+    margin-left: 5rem;
+    margin-right: 0px;
+    margin-bottom: 10px;
+  }
+  .about-pic{
+    margin-left: 120px;
+  }
+  .about-containers{
+    
+    width: 80%;
+    display: block;
+    margin-left: 6rem;
+  }
+  .text-container{
+    margin-left: 80px;
+  }
+.btn-container-about{
+  margin-left: 50px;
+}
+.section__text__p1,.title{
+  margin-left: 70px;
+}
+#experience{
+  margin-top: 100px;
+}
+#socials-container1{
+  display: block;
+ margin-left: 90px;
+  margin-top: 1rem;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+.icon1{
+  height: 3.6rem;
+}
+.details-container{
+  margin-bottom: 10px;
+}
+
+.section__text__p1{
+margin-left: -5px;
+}
+
+.section__text__p2 {
+    font-size: 1.75rem;
+  }
+  .ex-text{
+    margin-left: 60px;
+    font-weight: bold;
+    color: red;
+  }
+.project-left{
+  margin-top: 100px;
+  margin-left: 70px;
+}
+.section__pic-container3{
+  padding-right: 500px;
+
+ 
+}
+#contact{
+margin-top: 10rem;
+
+}
+.section__text1{
+  margin-top: 20rem;
+}
+.project-containers{
+  margin-top: 30px;
+  
+}
+
+.about-details-container{
+  margin-bottom: 100px;
+}
+.title-project,.project_text_p2{
+  margin-left: 50px;
+}
+
+.section__text__p3{
+  font-size: 40px;
+}
+
+  article {
+    font-size: 1rem;
+  }
+  footer nav {
+    height: fit-content;
+    margin-bottom: 2rem;
+  }
+ 
+  .contact-info-upper-container,
+  .btn-container {
+    flex-wrap: wrap;
+  }
+  .contact-info-container {
+    margin: 0;
+  }
+  .contact-info-container p,
+  .nav-links li a {
+    font-size: 1rem;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+  }
+  .nav-links {
+    flex-direction: column;
+    gap: 0.5rem;
+    text-align: center;
+  }
+  .section__pic-container {
+    width: auto;
+    height: 46vw;
+    justify-content: center;
+    margin-left: 100px;
+  }
+  
+
+  
+ 
+  .title {
+    font-size: 2rem;
+  }
+  .text-container {
+    text-align: justify;
+  }
+  #socials-container3, #socials-container,#socials-container1{
+    flex-wrap: wrap;
+  }
+  
+  #profile {
+    display: block;
+    margin-bottom: 100px;
+  }
+  #projects{
+    margin-top: -160px;
+  }
+  section,
+  .section-container {
+    height: fit-content;
+  }
+  section {
+    margin: 0 5%;
+  }
+  .section__pic-container,.section__pic-container2{
+    width: 270px;
+    height: 270px;
+    margin: 0 auto 1rem;
+  }
+  .section__pic-container3{
+    width: 350px;
+    height: 350px;
+    margin: 0 auto 1rem;
+  }
+  .section__pic-container2{
+    width: 350px;
+    height: 350px;
+ 
+    margin: 0 1rem 1rem;
+  }
+
+}
+
+
+
+
+@media screen and (max-width: 300px){
+  #socials-container3, #socials-container,#socials-container1{
+    flex-wrap: wrap;
+
+  }
+  
+    
+
+  
+
+
+
+  
+}
